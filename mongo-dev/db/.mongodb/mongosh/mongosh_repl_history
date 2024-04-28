@@ -1,0 +1,29 @@
+db.products.find().sort({ created: "DESC" })
+db.products.find().sort({created:"desc"})
+db.products.find()
+db.counters.find()
+show collections
+cls
+db.products.find()
+db.products
+show collections
+use demopos
+show dbs
+cls
+ls -lrt
+ls
+db.products.find()
+db.users.find()
+db.users.findOneAndDelete({_id: ObjectId('66275998bb880049f66dd8cf')})
+db.users.find()
+cls
+db.users.find()
+show collections
+use demopos
+db.users.find()
+show collections
+show collection
+use demopos
+show dbs
+cls
+clear
